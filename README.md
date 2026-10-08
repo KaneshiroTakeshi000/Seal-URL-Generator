@@ -23,15 +23,7 @@
 2.  Click the Tampermonkey or Violentmonkey extension icon in your browser toolbar.
 3.  Click **"匯出至海豹表"** (Export to Seal Database) in the script menu (Shortcut: `s`).
 4.  The script will begin fetching your data in the background. Once completed, a new tab will automatically open with your personalized Seal Database result!
-
-
-## Supported Domains
-
-This script supports the following environments:
-
-*   DMM Platform (Standard / R18 versions)
-*   Johren Platform (Traditional Chinese / Various regional versions)
-*   Various official Cocos2d PC game clients and Cloudfront nodes
+![Screenshot](./readme.jpg)
 
 ## Notes & Disclaimer
 
