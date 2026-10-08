@@ -1,11 +1,10 @@
 # Seal URL Generator
 
-**Seal URL Generator** is a Userscript designed for the browser game *Kamihime Project*. This script automatically retrieves the data of Kamihime, Eidolons, and Souls you currently own (including Awaken and Maka states) and generates a corresponding [Seal Database](https://gogopowerrangers.neocities.org/seal) URL. It opens the result in a new tab, saving you the hassle of manually checking off items one by one.
+**Seal URL Generator** is a Userscript designed for the browser game *Kamihime Project*. This script automatically retrieves the data of Kamihime, Eidolons, and Souls you currently own (including Awaken and Maka states) and generates a corresponding [Seal web](https://gogopowerrangers.neocities.org/seal) URL. It opens the result in a new tab, saving you the hassle of manually checking off items one by one.
 
 ## Key Features
 
 *   **One-Click Export**: No manual input or cross-referencing required. Simply click the menu item to fetch your data automatically.
-*   **Comprehensive State Detection**: Accurately identifies character states, supporting Not Owned (0), Base (1), Awaken (2), and Maka (3).
 *   **Dynamic Database Synchronization**: Automatically fetches the latest database mapping files from the Seal Database server, ensuring accurate matching even after new characters or eidolons are released.
 *   **Multi-Platform Support**: Supports various game servers and entry URLs, including DMM, Johren, standard versions, and R-18 versions.
 
@@ -24,6 +23,7 @@
 2.  Click the Tampermonkey or Violentmonkey extension icon in your browser toolbar.
 3.  Click **"匯出至海豹表"** (Export to Seal Database) in the script menu (Shortcut: `s`).
 4.  The script will begin fetching your data in the background. Once completed, a new tab will automatically open with your personalized Seal Database result!
+
 
 ## Supported Domains
 
